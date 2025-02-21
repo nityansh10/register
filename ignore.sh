@@ -1,4 +1,4 @@
-# Ignore system and config files
+# Ignore shell and config files
 .bash_history
 .bash_logout
 .bashrc
