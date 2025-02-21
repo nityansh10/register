@@ -13,4 +13,6 @@
 .sudo_as_admin_successful
 .viminfo
 snap/
+# Ignore Firefox Snap data
+snap/firefox/
 
