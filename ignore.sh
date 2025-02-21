@@ -15,4 +15,12 @@
 snap/
 # Ignore Firefox Snap data
 snap/firefox/
+# Ignore GNOME application state
+.local/share/gnome-shell/application_state
+
+# Ignore Vim history file
+.viminfo
+
+# Ignore Firefox Snap data
+snap/firefox/
 
